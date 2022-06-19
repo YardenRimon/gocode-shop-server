@@ -1,0 +1,32 @@
+[
+    {
+        "num":"1",
+        "en": "one",
+        "he": "ehad"
+    },
+    {
+        "num":"2",
+        "en": "tow",
+        "he": "shtaym"
+    },
+    {
+        "num":"3",
+        "en": "three",
+        "he": "shalosh"
+    },
+    {
+        "num":"4",
+        "en": "four",
+        "he": "arba"
+    },
+    {
+        "num":"5",
+        "en": "five",
+        "he": "hamesh"
+    },
+    {
+        "num":"6",
+        "en": "six",
+        "he": "shesh"
+    }
+]
